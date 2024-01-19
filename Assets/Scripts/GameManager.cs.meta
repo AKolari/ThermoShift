@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 76aadd081384a4b45876536a073090da
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spawnPoint: {instanceID: 0}
+  - player: {instanceID: 0}
+  - uitTemp: {instanceID: 0}
+  - death_SFX: {fileID: 8300000, guid: 87a96b0edfb078849bcb909148695e90, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 81f95fd680576194399c02f05010fb9b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - OnSprite: {instanceID: 0}
+  - OffSprite: {instanceID: 0}
+  - death_SFX: {fileID: 8300000, guid: 87a96b0edfb078849bcb909148695e90, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

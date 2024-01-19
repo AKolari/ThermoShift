@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: ed367cd61073cbf4f9ab72cd083829ea
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dungeonTheme: {fileID: 8300000, guid: 9a643b6dda453bd4aa6fdef91d1d1824, type: 3}
+  - bossTheme: {fileID: 8300000, guid: 03ea726ff01d7c9499b894302eefb4b0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
