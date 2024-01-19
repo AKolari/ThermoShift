@@ -1,4 +1,0 @@
-repository "ThermoShift@SAS427@cloud"
-  path "/"
-    br "/main"
-    co "/main"
