@@ -8,8 +8,10 @@ Changing temperature causes the environment and enemies to change. These changes
 This game was made as a final project in our Advanced Game Programming class. 
 All code, sound effects visual assets were made by us, however the background music is borrowed from _The Legend of Zelda: A Link to The Past_ and  _Final Fantasy 16_
 
-## Set Up 
-Simply download and unzip the repo. Inside of the ThermoShift Build folder, simply run the Thermoshift.exe
+## Set Up  
+This repo has all the source code to download and open as a Unity project. <br>
+If you want to download and play the compiled game, see the Itch.io here: https://savionwatson.itch.io/thermoshift <br>
+Simply download and unzip the repo. Then, inside of the ThermoShift Build folder, run the Thermoshift.exe <br>
 
 ## Controls 
 _Movement_: Arrow Keys <br>
